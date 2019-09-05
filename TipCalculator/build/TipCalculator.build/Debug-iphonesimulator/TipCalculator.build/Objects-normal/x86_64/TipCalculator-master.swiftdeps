@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "1833ddaabcb749f4dabf66f37e3b5613"
+build_time: [1567645878, 638804000]
+inputs:
+  "/Users/danielmorales/Documents/IOS Development/TipCalculator/TipCalculator/ViewController.swift": [1567050819, 239805570]
+  "/Users/danielmorales/Documents/IOS Development/TipCalculator/TipCalculator/AppDelegate.swift": [1566884979, 623879089]
