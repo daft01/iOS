@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "333f50fe1afbdd52fbd327be5b804fc8"
+build_time: [1569460043, 402396000]
+inputs:
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/AFError.swift": [1569458074, 491054602]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Alamofire.swift": [1569458074, 491276648]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1569458074, 491439000]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/MultipartFormData.swift": [1569458074, 491638736]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1569458074, 491833306]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Notifications.swift": [1569458074, 491975377]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/ParameterEncoding.swift": [1569458074, 492170151]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Request.swift": [1569458074, 492445479]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Response.swift": [1569458074, 492665452]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/ResponseSerialization.swift": [1569458074, 492894019]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Result.swift": [1569458074, 493042074]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1569458074, 493221937]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/SessionDelegate.swift": [1569458074, 493402565]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/SessionManager.swift": [1569458074, 493705515]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/TaskDelegate.swift": [1569458074, 493991377]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Timeline.swift": [1569458074, 494120600]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/Alamofire/Source/Validation.swift": [1569458074, 494234840]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "1e7b5c044a69c5fa331af2cb1cfd5690"
+build_time: [1569460060, 681488000]
+inputs:
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/tumblr/PhotoDetailsViewController.swift": [1569458229, 271401535]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/tumblr/AppDelegate.swift": [1569458211, 328431505]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/tumblr/PhotoCell.swift": [1569458209, 818635530]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/tumblr/PhotosViewController.swift": [1569458248, 712982105]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "ab88e18fef665a82639f0d61e522aab0"
+build_time: [1569460057, 228035000]
+inputs:
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/AFIError.swift": [1569458074, 494981886]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/Image.swift": [1569458074, 495106675]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/ImageCache.swift": [1569458074, 495275046]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/ImageDownloader.swift": [1569458074, 495521761]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/ImageFilter.swift": [1569458074, 495735790]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1569458074, 495901264]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1569458074, 496146028]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1569458074, 496341295]
+  "/Users/danielmorales/CSUMB/iOS/Tumblr/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1569458074, 496519544]

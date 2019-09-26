@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  tumblr
 //
-//  Created by Jessica and Daniel Morales on 9/11/19.
-//  Copyright © 2019 Jessica and Daniel Morales. All rights reserved.
+//  Created by Daniel Morales on 9/17/19.
+//  Copyright © 2019 Daniel Morales. All rights reserved.
 //
 
 import UIKit
