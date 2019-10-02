@@ -1,13 +1,13 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "f464464a88f25365c3c422dcaeef3e78"
-build_time: [1569298875, 263288000]
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "451af155c6198eaf95ff2ec2176b4090"
+build_time: [1570058198, 193374000]
 inputs:
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/AFIError.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Image.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageCache.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageDownloader.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageFilter.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1568662441, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1568662441, 0]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/AFIError.swift": [1569979999, 688799194]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Image.swift": [1569979999, 689210778]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageCache.swift": [1569979999, 689427200]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageDownloader.swift": [1569979999, 689767273]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageFilter.swift": [1569979999, 690217420]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1569979999, 690527485]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1569979999, 690839288]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1569979999, 691195840]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1569979999, 691525664]
