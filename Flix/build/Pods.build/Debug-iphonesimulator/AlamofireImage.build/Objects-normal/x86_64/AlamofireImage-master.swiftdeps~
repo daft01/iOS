@@ -1,13 +1,13 @@
 version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
-options: "451af155c6198eaf95ff2ec2176b4090"
-build_time: [1570002039, 335504000]
+options: "0f96f35138bdf0a3386d120d48de1356"
+build_time: [1570160935, 987624000]
 inputs:
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/AFIError.swift": [1569979999, 688799194]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Image.swift": [1569979999, 689210778]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageCache.swift": [1569979999, 689427200]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageDownloader.swift": [1569979999, 689767273]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/ImageFilter.swift": [1569979999, 690217420]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1569979999, 690527485]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1569979999, 690839288]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1569979999, 691195840]
-  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1569979999, 691525664]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/AFIError.swift": [1570160905, 215108443]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/Image.swift": [1570160905, 215263373]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/ImageCache.swift": [1570160905, 215441279]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/ImageDownloader.swift": [1570160905, 215781436]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/ImageFilter.swift": [1570160905, 215986607]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1570160905, 216120271]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1570160905, 216348665]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1570160905, 216696697]
+  "/Users/danielmorales/IOS_CST945/flixster/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1570160905, 216973311]

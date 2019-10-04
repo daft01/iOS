@@ -235,7 +235,7 @@ SWIFT_CLASS("_TtC8flixster9MovieCell")
 
 SWIFT_CLASS("_TtC8flixster26MovieDetailsViewController")
 @interface MovieDetailsViewController : UIViewController
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified backdropView;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified backDropView;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified posterView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified titleLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified synopsisLabel;

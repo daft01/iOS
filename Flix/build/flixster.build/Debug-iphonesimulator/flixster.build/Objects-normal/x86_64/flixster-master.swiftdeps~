@@ -1,10 +1,10 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "e58a99392831cf9ba956b7fac1488c4d"
-build_time: [1569298878, 288030000]
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "b47fa4a3afe1438caff9d4c3b9126617"
+build_time: [1570161077, 548998000]
 inputs:
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/MovieGridViewController.swift": [1569203279, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/MovieDetailsViewController.swift": [1569202532, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/AppDelegate.swift": [1569011727, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/MoviesViewController.swift": [1569190570, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/MovieGridCell.swift": [1569202532, 0]
-  "/Users/danielmorales/CSUMB/iOS/Flix/flixster/MovieCell.swift": [1569011828, 0]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/MovieGridViewController.swift": [1570161077, 404516402]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/MovieDetailsViewController.swift": [1570161077, 413995111]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/AppDelegate.swift": [1570161077, 444020536]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/MoviesViewController.swift": [1570161077, 433426467]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/MovieGridCell.swift": [1570161015, 16005093]
+  "/Users/danielmorales/IOS_CST945/flixster/flixster/MovieCell.swift": [1570161077, 423828554]

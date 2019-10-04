@@ -2,8 +2,8 @@
 //  flixsterTests.swift
 //  flixsterTests
 //
-//  Created by Jessica Rios on 9/20/19.
-//  Copyright © 2019 Jessica Rios. All rights reserved.
+//  Created by Daniel Morales on 9/9/19.
+//  Copyright © 2019 Daniel Morales. All rights reserved.
 //
 
 import XCTest
