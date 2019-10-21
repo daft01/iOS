@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "352d81e0dbe7a406b9850d5df1f5eaf9"
+build_time: [1571613572, 713503000]
+inputs:
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/HomeViewController.swift": [1571097348, 0]
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/Authentication/SignUpView.swift": [1571095398, 0]
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/AppDelegate.swift": [1570667232, 0]
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/Authentication/SignInView.swift": [1571095788, 0]
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/ImageViewController.swift": [1571100108, 0]
+  "/Users/danielmorales/CSUMB/Firebasechat/Firebasechat/SceneDelegate.swift": [1570660412, 0]

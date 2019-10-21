@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/FIRStorage.m \
+  /Users/danielmorales/CSUMB/Firebasechat/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageComponent.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStoragePath.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageReference_Private.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageListResult.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTokenAuthorizer.h \
+  /Users/danielmorales/CSUMB/Firebasechat/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUtils.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorage_Private.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/Headers/Public/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/danielmorales/CSUMB/Firebasechat/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRLibrary.h \
+  /Users/danielmorales/CSUMB/Firebasechat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h
